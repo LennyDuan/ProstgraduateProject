@@ -16,3 +16,5 @@ Haven't decide to the detail of it. The candidates will be:
 * Purchasing agent.
 * Saler application frameworks.
 
+---
+Also, I have great interested in machine learning & Big data. Might choose the topic in these area as well. Let's see.
